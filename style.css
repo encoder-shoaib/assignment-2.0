@@ -1,0 +1,240 @@
+/* For all section style */
+* {
+    margin: 0;
+    font-family: 'Work Sans';
+
+
+}
+
+
+/* For header style */
+
+.styles {
+    text-align: right;
+    background-image: url('images/banner/banner1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 720px;
+
+}
+
+.header-style {
+    padding-top: 500px;
+    font-weight: 700px;
+    font-size: 90px;
+    line-height: 150px;
+    font-family: 'Work Sans';
+    margin-right: 600px;
+    padding-bottom: 28px;
+
+}
+
+.pragraph {
+    font-weight: 400;
+    font-size: 40px;
+    height: 78px;
+    margin-left: 100px;
+    margin-right: 600px;
+    padding-bottom: 60px;
+}
+
+.button {
+    height: 120px;
+    width: 300px;
+    font-size: 40px;
+    color: #FFFFFF;
+    background: #F15B22;
+    border-radius: 8px;
+    border-radius: 10px;
+    margin-right: 600px;
+}
+
+.section {
+    display: flex;
+    margin: 700px 100px 555px 800px;
+}
+
+
+.img-section {
+    width: 500px;
+    border-radius: 100%;
+    background: rgba(241, 91, 34, 0.2);
+
+}
+
+.section-header {
+    font-weight: 700;
+    font-size: 120px;
+    color: #151414
+}
+
+.section-discription {
+    font-weight: 400;
+    font-size: 50px;
+    color: #444343;
+    padding-right: 300px;
+
+}
+
+.section-div {
+    margin-left: 900px;
+    font-weight: 400;
+    font-size: 40px;
+    color: #444343;
+
+}
+
+
+/* My plans style  */
+.second-section {
+    text-align: center;
+
+}
+
+.my-plan {
+    margin-left: 900px;
+    height: 600px;
+    width: 500px;
+
+
+    background: #FFFFFF;
+
+    display: flex;
+    text-align: center;
+}
+
+.div-img-icon {
+    margin: 40px 200px;
+    opacity: 300;
+}
+
+.plan-header {
+    font-size: 120px;
+}
+
+.div-title {
+    font-size: 50px;
+    color: #151414;
+}
+
+.div-description {
+    color: #737272;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+
+/* footer-section style  */
+
+.footer-section {
+    display: flex;
+    color: #F8F8F8;
+    margin-top: 50px;
+
+    background: #151414;
+
+
+
+}
+
+.footer-header {
+    font-size: 120px;
+    margin-left: 800px;
+}
+
+.last-header {
+    font-size: 60px;
+    color: #FFFFFF;
+
+}
+
+.last-div {
+    margin-left: 1300px;
+    height: 493px;
+    font-size: 20px;
+}
+
+.footer-pragraph-1 {
+    margin-left: 800px;
+    font-size: 40px;
+}
+
+.footer-pragraph-2 {
+    margin-left: 800px;
+    font-size: 40px;
+}
+
+.footer-pragraph-3 {
+    margin-left: 800px;
+    font-size: 40px;
+}
+
+.footer-icon {
+    padding-left: 780px;
+
+}
+
+.Subscribe {
+
+    height: 70px;
+    width: 200px;
+    font-size: 30px;
+    color: #F15B22;
+
+
+    border-radius: 8px;
+    border-radius: 10px;
+}
+
+.email {
+    height: 640x;
+    font-size: 30px;
+
+    border: 2px solid wheat;
+    width: 325px;
+    font-weight: 400;
+    border: none;
+    color: #F3F3F3;
+}
+
+
+/* tricky-img */
+.img-sertion-1 {
+    background-image: url('images/watch.png');
+    background-repeat: no-repeat;
+    width: 2800px;
+    height: 700px;
+    margin-left: 550px;
+    margin-bottom: 200px;
+    background-size: cover;
+    border-radius: 20px;
+
+}
+
+.img-section-2 {
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+
+    height: 700px;
+    padding-left: 500px;
+    margin-bottom: 200px;
+    background-size: cover;
+    border-radius: 20px;
+    margin-right: 100px;
+}
+
+.img-section-div {
+    font-size: 120px;
+    color: #F3F3F3;
+    margin-left: 90px;
+}
+
+.img-section-dot {
+    height: 150px;
+    width: 330px;
+    font-size: 40px;
+    color: #F15B22;
+    margin-left: 90px;
+    border-radius: 10px;
+
+}
